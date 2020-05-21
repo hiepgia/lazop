@@ -1,0 +1,21 @@
+{
+    "name": "hiepgia/lazop",
+    "description": "Lazada SDK for their open API.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "hiepgia\\lazop": "src"
+        }
+    },    
+    "authors": [
+        {
+            "name": "Tran Hoang Hiep",
+            "email": "hiepgia@hiepgia.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^7.2"
+    }
+}
